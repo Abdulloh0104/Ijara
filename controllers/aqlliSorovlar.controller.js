@@ -129,9 +129,9 @@ const getClientPayments = async (req, res) => {
       SELECT 
         cat.name AS category_name,
         p.name AS product_name,
-        o.name AS owner_name,
+        o.full_name AS owner_name,
         pay.amount,
-        pay.date,
+        pay.date
       FROM "Payments" pay
       JOIN "Contracts" c ON pay."ContractId" = c.id
       JOIN "Products" p ON c."ProductId" = p.id

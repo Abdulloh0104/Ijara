@@ -35,3 +35,10 @@
 {"level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-04-11T05:20:22.426Z"}
 {"level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-04-11T06:09:40.501Z"}
 {"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2025-04-11T06:09:40.511Z"}
+{"level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-04-11T18:43:55.141Z"}
+{"level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-04-11T18:45:53.846Z"}
+{"level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-04-11T18:46:01.896Z"}
+{"level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-04-11T19:12:10.784Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2025-04-11T19:12:10.793Z"}
+{"level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-04-11T19:12:21.886Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2025-04-11T19:12:21.893Z"}
