@@ -6,8 +6,8 @@ const router = require("express").Router();
 
 router.post("/",adminGuard, addNewCategory);
 router.get("/", adminGuard, findAllCategories);
-router.get("/:id", findCategoryById); 
-router.delete("/:id", deleteCategoryById);
-router.put("/:id", updateCategoryById);
+router.get("/:id",adminGuard, findCategoryById); 
+router.delete("/:id",adminGuard, deleteCategoryById);
+router.put("/:id",adminGuard, updateCategoryById);
 
 module.exports = router;

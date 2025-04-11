@@ -33,3 +33,5 @@
 {"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2025-04-11T04:39:31.945Z"}
 {"message":"Token berilmagan","status":401}
 {"level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-04-11T05:20:22.426Z"}
+{"level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-04-11T06:09:40.501Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2025-04-11T06:09:40.511Z"}
